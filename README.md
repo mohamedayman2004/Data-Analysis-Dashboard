@@ -10,8 +10,7 @@ Customizable Dashboards: Tailor the dashboard to focus on specific data points r
 Export Reports: Export visualizations and reports to PDF, CSV, or Excel formats for further analysis.
 Authentication & Authorization: Secure login system with role-based access control to ensure appropriate permissions.
 ##Usage
-#Once the dashboard is up and running, you can:
-
+Once the dashboard is up and running, you can:
 View the Dashboard: The home page will display a high-level overview of the key metrics.
 Filter Data: Use the filter options to view specific data sets by time frame, product category, region, etc.
 Interact with Visualizations: Click on charts and graphs to drill down into specific data points.
